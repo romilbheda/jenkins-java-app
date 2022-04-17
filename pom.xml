@@ -13,7 +13,6 @@
 
     <modules>        <!-- child modules to be executed as part of this build -->
         <module>sampleWebApp</module>
-        <module>sampleWebApp.FunctionalTests</module>
     </modules>
 
 </project>
